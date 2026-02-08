@@ -1,0 +1,55 @@
+#pembungkus {
+background-color: papayawhip;
+  border: 10px solid papayawhip;
+  padding: 60px;
+}
+
+#induk-posisi-fixed {
+ border: 1px solid chocolate;
+ background-color: chocolate;
+}
+
+
+img {
+  border: 2px solid white;
+  width: 110px;
+  height: 160px;
+}
+
+#konten {
+border: 5px solid black;
+  background-color: navy;
+  padding: 60px;
+  width: 500px;
+  height: 200px;
+}
+#content {
+padding: 60px;
+  width: 500px;
+  height: 200px;
+}
+
+#induk-display-inline-block {
+border: 3px solid blue;
+}
+
+#base-container {
+background-color: 1px solid aqua;
+width: 50px;
+border: 1px solid gainsboro;
+flex-wrap: wrap ;
+}
+
+.container-center {
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+
+.kotak {
+    width: 60px;
+  height: 60px;
+  background-color: yellow;
+  border: 2px solid blue;
+}
+
